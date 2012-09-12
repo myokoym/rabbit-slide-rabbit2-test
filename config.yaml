@@ -5,8 +5,9 @@ tags:
 - rabbit
 presentation_date: 
 version: 1.0.0
-licenses: [GPLv2]
-slideshare_id: 
+licenses:
+- GPLv2
+slideshare_id: 14266109
 speaker_deck_id: 
 author:
   markup_language: :rd
