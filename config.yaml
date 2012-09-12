@@ -1,0 +1,17 @@
+---
+id: rabbit2-test
+base_name: rabbit2-test
+tags:
+- rabbit
+presentation_date: 
+version: 1.0.0
+licenses: []
+slideshare_id: 
+speaker_deck_id: 
+author:
+  markup_language: :rd
+  name: myokoym
+  email: myokoym@gmail.com
+  rubygems_user: myokoym
+  slideshare_user: myokoym
+  speaker_deck_user: myokoym
